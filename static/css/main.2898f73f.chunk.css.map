@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","todoitem.css","todolist.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,WACE,kBAAmB,CACnB,WAAY,CACZ,qBACF,CCJA,WACE,YACF","file":"main.2898f73f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n",".todo-item {\n  margin-bottom: 40px;\n  padding: 7px;\n  border: 1px solid black;\n}\n",".todo_list {\n  padding: 50px;\n}\n"]}
